@@ -1,0 +1,95 @@
+10
+
+dir
+49
+file:///home/victor/svnrep/vsmteam/branches/version%201.0/system
+file:///home/victor/svnrep
+
+
+
+2011-05-01T20:10:03.354507Z
+49
+test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+df67d812-302b-4733-9290-f6113af7bfcb
+
+scaffolding
+dir
+
+plugins
+dir
+
+helpers
+dir
+
+application
+dir
+
+cache
+dir
+
+language
+dir
+
+database
+dir
+
+logs
+dir
+
+fonts
+dir
+
+index.html
+file
+
+
+
+
+2011-11-06T19:53:27.983888Z
+0227cfd904e99656279202032b98d4a7
+2011-03-07T22:43:33.972483Z
+1
+root
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+114
+
+codeigniter
+dir
+
+libraries
+dir
+
